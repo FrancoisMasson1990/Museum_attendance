@@ -1,69 +1,69 @@
-,Name,Location,Visitors in 2022,Population
-0,Louvre,Paris,7726321,11020000
-1,Vatican Museums,Vatican City,5080866,825
-2,Natural History Museum,London,4654608,10979000
-3,British Museum,London,4097253,10979000
-4,National Museum of Natural History,Washington,3900000,5379184
-5,Tate Modern,London,3883160,10979000
-6,National Museum of Korea,Seoul,3411381,21794000
-7,Guangdong Museum,Guangzhou,3359700,20902000
-8,Mevlana Museum,Konya,3352505,2232374
-9,Musée d'Orsay,Paris,3270182,11020000
-10,National Gallery of Art,Washington,3256433,5379184
-11,Metropolitan Museum of Art,New York City,3208832,18713220
-12,Centre Pompidou,Paris,3009570,11020000
-13,State Hermitage Museum,Saint Petersburg,2812913,5351935
-14,National Gallery,London,2727119,10979000
-15,State Russian Museum,Saint Petersburg,2651688,5351935
-16,National Museum of Marine Science and Technology,Keelung,2582444,370155
-17,Prado Museum,Madrid,2456724,3266126
-18,Victoria and Albert Museum,London,2370261,10979000
-19,Somerset House,London,2356580,10979000
-20,London Science Museum,London,2334930,10979000
-21,Chinese Aviation Museum,Beijing,2300000,19433000
-22,National Museum of Natural Science,Taichung,2299808,2803894
-23,Galleria degli Uffizi,Florence,2222692,382258
-24,Museum of Modern Art,New York City,2190440,18713220
-25,M+,Hong Kong,2034331,7347000
-26,Opium War Museum [zh],Dongguan,2025800,7981000
-27,Cité des Sciences et de l'Industrie,Paris,1992823,11020000
-28,National Museum of Scotland,Edinburgh,1973751,488050
-29,State Tretyakov Gallery,Moscow,1910000,17125000
-30,National Taiwan Science Education Center,Taipei,1878504,2684567
-31,National Science and Technology Museum,Kaohsiung,1875372,2773533
-32,National Museum of Modern and Contemporary Art,Seoul,1806641,21794000
-33,Smithsonian Museum of American History,Washington,1800000,5379184
-34,Rijksmuseum,Amsterdam,1766084,1031000
-35,National Museum of China,Beijing,1630911,19433000
-36,Royal Museums Greenwich,London,1628580,10979000
-37,Nanjing Museum,Nanjing,1610000,7496000
-38,Zhejiang Museum of Natural History,Hangzhou,1581263,6446000
-39,National Gallery of Victoria,Melbourne,1580303,5078193
-40,Jianchuan Museum Cluster,Chengdu,1538143,11309000
-41,Tokyo Metropolitan Art Museum,Tokyo,1509970,37977000
-42,Changzhou Museum,Changzhou,1508229,4592431
-43,Humboldt Forum,Berlin,1500000,3644826
-44,National Museum of Anthropology,Mexico City,1494587,20996000
-45,National Museum of History,Mexico City,1486379,20996000
-46,National Air and Space Museum[b],Washington,1486000,5379184
-47,Kaohsiung Museum of Fine Arts,Kaohsiung,1461406,2773533
-48,Acropolis Museum,Athens,1451727,664046
-49,China Science and Technology Museum,Beijing,1431189,19433000
-50,Galleria dell'Accademia,Florence,1428369,382258
-51,Suzhou Museum,Suzhou,1417412,5690000
-52,Chengdu Museum,Chengdu,1404735,11309000
-53,Shanghai Science and Technology Museum,Shanghai,1403179,22120000
-54,"The National Art Center, Tokyo",Tokyo,1400096,37977000
-55,Louis Vuitton Foundation,Paris,1398525,11020000
-56,Tokyo National Museum,Tokyo,1372132,37977000
-57,"National Museum, Krakow",Krakow,1365425,766739
-58,Centro Cultural Banco do Brasil,São Paulo,1364208,22046000
-59,Van Gogh Museum,Amsterdam,1364023,1031000
-60,Kunsthistorisches Museum,Vienna,1345617,1840573
-61,Tianjin Natural History Museum,Tianjin,1320752,10800000
-62,Palacio de Cristal del Retiro,Madrid,1318823,3266126
-63,Guggenheim Museum Bilbao,Bilbao,1289147,346843
-64,Scottish National Gallery,Edinburgh,1277230,488050
-65,National Gallery Singapore,Singapore,1262189,5745000
-66,Museo Reina Sofía,Madrid,1253183,3266126
-67,Museum of European and Mediterranean Civilisations,Marseille,1251030,870018
+,Name,Location,Visitors in 2022,Population,urls,Type,Collection size,Established,
+0,Louvre,Paris,7726321,11020000,/wiki/Louvre,Art museum and historic site,"615,797 in 2019[1] (35,000 on display)[2]",10 August 1793, 229 years ago
+1,Vatican Museums,Vatican City,5080866,825,/wiki/Vatican_Museums,Art museum,"70,000[1]",1506, 517 years ago
+2,Natural History Museum,London,4654608,10979000,"/wiki/Natural_History_Museum,_London",Natural history museum,,1881, 142 years ago
+3,British Museum,London,4097253,10979000,/wiki/British_Museum,,approx. 8 million objects[1],7 June 1753, 270 years ago
+4,National Museum of Natural History,Washington,3900000,5379184,/wiki/National_Museum_of_Natural_History,Natural History,"146,000,000 specimens  [1]",1910, 113 years ago
+5,Tate Modern,London,3883160,10979000,/wiki/Tate_Modern,,,2000, 23 years ago
+6,National Museum of Korea,Seoul,3411381,21794000,/wiki/National_Museum_of_Korea,History and Art museum,"over 310,000 pieces[1]295,551 m2 (3.18×106 sq ft)","1909 (Reopening of the National Museum of Korea in Yongsan, 2005)",
+7,Guangdong Museum,Guangzhou,3359700,20902000,/wiki/Guangdong_Museum,,,1959,
+8,Mevlana Museum,Konya,3352505,2232374,/wiki/Mevlana_Museum,Mosque,,,
+9,Musée d'Orsay,Paris,3270182,11020000,/wiki/Mus%C3%A9e_d%27Orsay,"Art museum, Design/Textile Museum, Historic site[1]",,1986,
+10,National Gallery of Art,Washington,3256433,5379184,/wiki/National_Gallery_of_Art,,"75,000 prints",1937, 86 years ago
+11,Metropolitan Museum of Art,New York City,3208832,18713220,/wiki/Metropolitan_Museum_of_Art,,2 million[1],"April 13, 1870; 153 years ago[2][3][4]",
+12,Centre Pompidou,Paris,3009570,11020000,/wiki/Centre_Pompidou,Cultural center,,,
+13,State Hermitage Museum,Saint Petersburg,2812913,5351935,/wiki/State_Hermitage_Museum,,3 million[1],1764, 259 years ago
+14,National Gallery,London,2727119,10979000,/wiki/National_Gallery,Art museum,,1824, 199 years ago
+15,State Russian Museum,Saint Petersburg,2651688,5351935,/wiki/State_Russian_Museum,Art museum and Historic site,,1895,
+16,National Museum of Marine Science and Technology,Keelung,2582444,370155,/wiki/National_Museum_of_Marine_Science_and_Technology,museum,,26 January 2014,
+17,Prado Museum,Madrid,2456724,3266126,/wiki/Prado_Museum,"Art museum, Historic site",,1819,
+18,Victoria and Albert Museum,London,2370261,10979000,/wiki/Victoria_and_Albert_Museum,Art museum,"2,278,183 items in 145 galleries",1852, 171 years ago
+19,Somerset House,London,2356580,10979000,/wiki/Somerset_House,,,,
+20,London Science Museum,London,2334930,10979000,/wiki/London_Science_Museum,,,".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}1857; 166 years ago(separate status formalised 1909)",
+21,Chinese Aviation Museum,Beijing,2300000,19433000,/wiki/Chinese_Aviation_Museum,Aviation museum,,1989,
+22,National Museum of Natural Science,Taichung,2299808,2803894,/wiki/National_Museum_of_Natural_Science,Museum,,1 January 1986,
+23,Galleria degli Uffizi,Florence,2222692,382258,/wiki/Galleria_degli_Uffizi,"Art museum, Design/Textile Museum, Historic site",,1581,
+24,Museum of Modern Art,New York City,2190440,18713220,/wiki/Museum_of_Modern_Art,Art museum,,"November 7, 1929; 93 years ago",
+25,M+,Hong Kong,2034331,7347000,/wiki/M%2B,Art museum,"6,421+ (2021)",11 November 2021,
+26,Opium War Museum [zh],Dongguan,2025800,7981000,/w/index.php?title=Opium_War_Museum&action=edit&redlink=1,,,,
+27,Cité des Sciences et de l'Industrie,Paris,1992823,11020000,/wiki/Cit%C3%A9_des_Sciences_et_de_l%27Industrie,Science museum,,13 March 1986,
+28,National Museum of Scotland,Edinburgh,1973751,488050,/wiki/National_Museum_of_Scotland,,,,
+29,State Tretyakov Gallery,Moscow,1910000,17125000,/wiki/State_Tretyakov_Gallery,Art museum,,1856,
+30,National Taiwan Science Education Center,Taipei,1878504,2684567,/wiki/National_Taiwan_Science_Education_Center,Science Centre,,1956 (Zhongzheng District)2003 (Shilin District)[1],
+31,National Science and Technology Museum,Kaohsiung,1875372,2773533,/wiki/National_Science_and_Technology_Museum,Science museum,,November 1997,
+32,National Museum of Modern and Contemporary Art,Seoul,1806641,21794000,/wiki/National_Museum_of_Modern_and_Contemporary_Art,,,1969,
+33,Smithsonian Museum of American History,Washington,1800000,5379184,/wiki/Smithsonian_Museum_of_American_History,History museum,,1964,
+34,Rijksmuseum,Amsterdam,1766084,1031000,/wiki/Rijksmuseum,".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:"": ""}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"" · "";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:"" ("";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:"")"";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:"" ""counter(listitem)""\a0 ""}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"" (""counter(listitem)""\a0 ""}National museumArt museumHistory museum",1 million objects[3],19 November 1798[1],
+35,National Museum of China,Beijing,1630911,19433000,/wiki/National_Museum_of_China,"Art museum, history museum",1.3 million,2003, 20 years ago
+36,Royal Museums Greenwich,London,1628580,10979000,/wiki/Royal_Museums_Greenwich,,,,
+37,Nanjing Museum,Nanjing,1610000,7496000,/wiki/Nanjing_Museum,"History museum, art museum",400000,1933,
+38,Zhejiang Museum of Natural History,Hangzhou,1581263,6446000,/wiki/Zhejiang_Museum_of_Natural_History,,,October 2005, 17 years ago
+39,National Gallery of Victoria,Melbourne,1580303,5078193,/wiki/National_Gallery_of_Victoria,Art museum,,24 May 1861, 162 years ago
+40,Jianchuan Museum Cluster,Chengdu,1538143,11309000,/wiki/Jianchuan_Museum_Cluster,,,,
+41,Tokyo Metropolitan Art Museum,Tokyo,1509970,37977000,/wiki/Tokyo_Metropolitan_Art_Museum,Art museum,49 objects,1926,
+42,Changzhou Museum,Changzhou,1508229,4592431,/wiki/Changzhou_Museum,,,1958,
+43,Humboldt Forum,Berlin,1500000,3644826,/wiki/Humboldt_Forum,Art museum,,2020,
+44,National Museum of Anthropology,Mexico City,1494587,20996000,/wiki/National_Museum_of_Anthropology_(Mexico),Archaeology museum,"600,000 [1]",1964,
+45,National Museum of History,Mexico City,1486379,20996000,/wiki/Museo_Nacional_de_Historia,History museum,,,
+46,National Air and Space Museum[b],Washington,1486000,5379184,/wiki/National_Air_and_Space_Museum,Aviation museum,,1946, 77 years ago
+47,Kaohsiung Museum of Fine Arts,Kaohsiung,1461406,2773533,/wiki/Kaohsiung_Museum_of_Fine_Arts,Art museum,,1994,
+48,Acropolis Museum,Athens,1451727,664046,/wiki/Acropolis_Museum,Archaeological Museum,"4,250+ objects",20 June 2009[1],
+49,China Science and Technology Museum,Beijing,1431189,19433000,/wiki/China_Science_and_Technology_Museum,,,1988,
+50,Galleria dell'Accademia,Florence,1428369,382258,/wiki/Galleria_dell%27Accademia,Art museum,,1784,
+51,Suzhou Museum,Suzhou,1417412,5690000,/wiki/Suzhou_Museum,,,,
+52,Chengdu Museum,Chengdu,1404735,11309000,/wiki/Chengdu_Museum,City museum,"c.200,000",1984,
+53,Shanghai Science and Technology Museum,Shanghai,1403179,22120000,/wiki/Shanghai_Science_and_Technology_Museum,,,18 December 2001[1],
+54,"The National Art Center, Tokyo",Tokyo,1400096,37977000,"/wiki/The_National_Art_Center,_Tokyo",,,,
+55,Louis Vuitton Foundation,Paris,1398525,11020000,/wiki/Louis_Vuitton_Foundation,,,20 October 2014,
+56,Tokyo National Museum,Tokyo,1372132,37977000,/wiki/Tokyo_National_Museum,Art museum,110000,1872 (Yushima Seido Exhibition)1873 (permanent display)1882 (present location)2007 (present administration),
+57,"National Museum, Krakow",Krakow,1365425,766739,"/wiki/National_Museum,_Krakow",National museum,,7 October 1879,
+58,Centro Cultural Banco do Brasil,São Paulo,1364208,22046000,/wiki/Centro_Cultural_Banco_do_Brasil,,,12 October 1989(Rio de Janeiro)12 October 2000(Brasília)21 April 2001(São Paulo)27 August 2013(Belo Horizonte),
+59,Van Gogh Museum,Amsterdam,1364023,1031000,/wiki/Van_Gogh_Museum,Art museumNational museum,,2 June 1973[1],
+60,Kunsthistorisches Museum,Vienna,1345617,1840573,/wiki/Kunsthistorisches_Museum,Art Museum,,1871–1891,
+61,Tianjin Natural History Museum,Tianjin,1320752,10800000,/wiki/Tianjin_Natural_History_Museum,Natural History Museum,,1914,
+62,Palacio de Cristal del Retiro,Madrid,1318823,3266126,/wiki/Palacio_de_Cristal_del_Retiro,Conservatory,,,
+63,Guggenheim Museum Bilbao,Bilbao,1289147,346843,/wiki/Guggenheim_Museum_Bilbao,Art museum,,18 October 1997, 25 years ago
+64,Scottish National Gallery,Edinburgh,1277230,488050,/wiki/Scottish_National_Gallery,,,1859, 164 years ago
+65,National Gallery Singapore,Singapore,1262189,5745000,/wiki/National_Gallery_Singapore,Art museum,"Approx. 9,000 objects",24 November 2015, 7 years ago
+66,Museo Reina Sofía,Madrid,1253183,3266126,/wiki/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa,Non-movable,,"September 10, 1992; 30 years ago",
+67,Museum of European and Mediterranean Civilisations,Marseille,1251030,870018,/wiki/Museum_of_European_and_Mediterranean_Civilisations,National museum of ethnology,,1 June 2013,
