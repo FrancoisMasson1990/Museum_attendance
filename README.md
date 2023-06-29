@@ -23,4 +23,4 @@ docker run -d -p 80:80 --name museum-attendance-api francoismasson/museum_attend
 See the results at [http://127.0.0.1:5000/docs](http://localhost/docs)
 
 
-![image info](imgs/image.png)
+![image info](imgs/fast_api.png)
