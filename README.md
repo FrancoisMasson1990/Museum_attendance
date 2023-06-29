@@ -18,6 +18,8 @@ docker pull francoismasson/museum_attendance_prediction:latest
 
 The model can be visualized after building the image
 ```python
-docker run -d -p 80:80 --name museum-attendance-api museum-attendance-ml-build
+docker run -d -p 80:80 --name museum-attendance-api francoismasson/museum_attendance_prediction
 ```
-See the results at http://127.0.0.1:5000/docs
+See the results at [http://127.0.0.1:5000/docs](http://localhost/docs)
+
+
